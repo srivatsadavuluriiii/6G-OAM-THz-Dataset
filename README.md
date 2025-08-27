@@ -286,7 +286,7 @@ plt.show()
 
 ---
 
-## Citation
+## If published, please use the following citation format -
 
 ```bibtex
 @dataset{docomo6g_oam_thz_dataset_2024,
