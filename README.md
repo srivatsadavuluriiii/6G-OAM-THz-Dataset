@@ -20,7 +20,9 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ## Dataset Visualization Overview
 
-![Dataset Comprehensive Overview](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%203/comprehensive_dataset_infographic.png)
+![Dataset Comprehensive Overview 1](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%203/image3.png)
+![Dataset Comprehensive Overview 2](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%203/image4.png)
+![Dataset Comprehensive Overview 3](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%203/image5.png)
 
 
 **Figure 1: Complete Dataset Parameter Coverage** - Comprehensive visualization showing all 33 physics parameters organized across 8 domains: Atmospheric Turbulence, Weather Environment, Fading & Channel, Pointing & Alignment, OAM Beam Physics, Hardware Impairments, Propagation Physics, and Performance Metrics. Each heatmap panel demonstrates normalized parameter distributions across 270K samples.
@@ -52,17 +54,9 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ---
 
-## Dataset Generation Workflow
-
-![Dataset Workflow](generators/publication_visuals/dataset_workflow_flowchart.png)
-
-**Figure 4: Dataset Generation and Validation Pipeline** - Complete workflow showing the three-phase process: Configuration Phase (YAML setup and parameter validation), Generation Loop (physics simulation, scenario sampling, and quality checks), and Validation Pipeline (consistency analysis, range verification, and final scoring).
-
----
-
 ## Research Impact & Applications
 
-![Research Impact](generators/publication_visuals/research_impact_diagram.png)
+![Research Impact](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%204/image6.png)
 
 **Figure 5: Global Research Impact and Applications** - Comprehensive impact diagram showing six main research branches: Deep Reinforcement Learning (32-state action space, 500 steps exploration), 6G System Optimization (beam steering, power allocation), Standards Compliance Research (DOCOMO compliance, ITU-R alignment), Physics-Based Channel Modeling (atmospheric physics, OAM beam physics), Academic Publications (50+ paper potential), and Industry Testbed Development (DOCOMO trials, equipment validation).
 
