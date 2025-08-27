@@ -20,7 +20,8 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ## Dataset Visualization Overview
 
-![Dataset Comprehensive Overview](generators/publication_visuals/comprehensive_dataset_infographic.png)
+![Dataset Comprehensive Overview](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%203/comprehensive_dataset_infographic.png)
+
 
 **Figure 1: Complete Dataset Parameter Coverage** - Comprehensive visualization showing all 33 physics parameters organized across 8 domains: Atmospheric Turbulence, Weather Environment, Fading & Channel, Pointing & Alignment, OAM Beam Physics, Hardware Impairments, Propagation Physics, and Performance Metrics. Each heatmap panel demonstrates normalized parameter distributions across 270K samples.
 
