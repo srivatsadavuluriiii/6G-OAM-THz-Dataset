@@ -36,7 +36,7 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ## Scenario Coverage & Distribution
 
-![Scenario Coverage Matrix](generators/publication_visuals/scenario_coverage_matrix.png)
+![Scenario Coverage Matrix](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%202/image2.png)
 
 **Figure 3: Comprehensive Scenario Coverage Matrix** - Detailed breakdown of all 270,000 samples across 9 deployment scenarios with exact sample counts, parameter ranges, SINR coverage, throughput capabilities, latency performance, and validation scores for each scenario type.
 
