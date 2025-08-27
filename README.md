@@ -28,7 +28,7 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ## System Architecture
 
-![System Architecture](generators/publication_visuals/system_architecture_diagram.png)
+![System Architecture](https://github.com/srivatsadavuluriiii/DOCOMO-6G-OAM-THz-Dataset/blob/main/plot%201/image1.png)
 
 **Figure 2: 6G OAM THz System Architecture** - Technical architecture showing the complete system design with four main layers: Input Layer (environmental and hardware parameters), Physics Engine Core (atmospheric models, OAM beam physics, channel modeling), Hardware Layer (RF components and signal processing), and Propagation Channel (THz wave propagation with realistic impairments).
 
