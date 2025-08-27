@@ -1,4 +1,4 @@
-# DOCOMO 6G OAM THz Dataset
+6G OAM THz Dataset
 
 [![Dataset Size](https://img.shields.io/badge/Dataset-270K%20samples-blue.svg)](https://github.com/srivatsadavuluriiii/DOCOMO-OAM-6G-Compliance-for-sub-thz-Communication)
 [![Physics Models](https://img.shields.io/badge/Physics%20Models-33%20parameters-green.svg)](https://github.com/srivatsadavuluriiii/DOCOMO-OAM-6G-Compliance-for-sub-thz-Communication)
@@ -7,14 +7,14 @@
 
 ## Overview
 
-The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-based dataset specifically designed for **Orbital Angular Momentum (OAM) beams in Terahertz (THz) frequencies** for Deep Reinforcement Learning applications in 6G wireless communications.
+The **6G OAM THz Dataset** is the world's first comprehensive, physics-based dataset specifically designed for **Orbital Angular Momentum (OAM) beams in Terahertz (THz) frequencies** for Deep Reinforcement Learning applications in 6G wireless communications.
 
 ### Key Features
 - **270,000 high-fidelity samples** with perfect validation quality (1.0/1.0)
 - **33 comprehensive physics parameters** covering complete THz propagation
 - **4 deployment scenarios** from lab to wide-area coverage
 - **300-600 GHz frequency range** with realistic atmospheric modeling
-- **ITU-R IMT-2030 compliant** meeting DOCOMO 6G requirements
+- **ITU-R IMT-2030 compliant** meeting 6G requirements
 
 ---
 
@@ -63,7 +63,7 @@ The **DOCOMO 6G OAM THz Dataset** is the world's first comprehensive, physics-ba
 
 ![Research Impact](generators/publication_visuals/research_impact_diagram.png)
 
-**Figure 5: Global Research Impact and Applications** - Comprehensive impact diagram showing six main research branches: Deep Reinforcement Learning (32-state action space, 500 steps exploration), 6G System Optimization (beam steering, power allocation), Standards Compliance Research (DOCOMO compliance, ITU-R alignment), Physics-Based Channel Modeling (atmospheric physics, OAM beam physics), Academic Publications (50+ paper potential), and Industry Testbed Development (DOCOMO trials, equipment validation).
+**Figure 5: Global Research Impact and Applications** - Comprehensive impact diagram showing six main research branches: Deep Reinforcement Learning (32-state action space, 500 steps exploration), 6G System Optimization (beam steering, power allocation), Standards Compliance Research (6G compliance, ITU-R alignment), Physics-Based Channel Modeling (atmospheric physics, OAM beam physics), Academic Publications (50+ paper potential), and Industry Testbed Development (equipment validation).
 
 ---
 
@@ -277,7 +277,7 @@ plt.show()
 
 ## Standards Compliance
 
-### DOCOMO 6G Requirements
+### 6G Requirements
 - **Peak Data Rate:** >100 Gbps (achieved: up to 1000 Gbps)
 - **Latency:** <1 ms (achieved: 0.011-2.841 ms range)
 - **Reliability:** >99.999% (achieved: 90.0-99.999% range)
@@ -294,8 +294,8 @@ plt.show()
 ## Citation
 
 ```bibtex
-@dataset{docomo6g_oam_thz_dataset_2024,
-  title={DOCOMO Compliant 6G OAM THz Dataset: Physics-Based Deep Learning Repository},
+@dataset{6g_oam_thz_dataset_2024,
+  title={6G OAM THz Dataset: Physics-Based Deep Learning Repository},
   author={Davuluri, Srivatsa},
   year={2024},
   publisher={IEEE DataPort},
@@ -331,5 +331,5 @@ This dataset is released under the **MIT License**, enabling both academic and c
 - **Email:** connect.davuluri@gmail.com
 - **GitHub:** [@srivatsadavuluriiii](https://github.com/srivatsadavuluriiii)
 
-**Repository:** [DOCOMO-OAM-6G-Compliance](https://github.com/srivatsadavuluriiii/DOCOMO-OAM-6G-Compliance-for-sub-thz-Communication)
+**Repository:** [6G-OAM-THz-Dataset](https://github.com/srivatsadavuluriiii/DOCOMO-OAM-6G-Compliance-for-sub-thz-Communication)
 
