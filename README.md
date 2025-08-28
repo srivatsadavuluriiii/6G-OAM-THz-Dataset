@@ -198,8 +198,6 @@ System-level KPIs:
 
 ## 6. Dataset Generation Methodology
 
-![Application Flowchart](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%204/image6.png)
-
 **Figure 4: Dataset Generation and Validation Pipeline** - Complete workflow showing the three-phase process: Configuration Phase (YAML setup and parameter validation), Generation Loop (physics simulation, scenario sampling, and quality checks), and Validation Pipeline (consistency analysis, range verification, and final scoring).
 
 ### 6.1 Generation Process
@@ -235,6 +233,7 @@ The dataset achieves exceptional quality metrics:
 
 ## 7. Applications and Use Cases
 
+![Application Flowchart](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%204/image6.png)
 
 ### 7.1 Deep Reinforcement Learning
 
