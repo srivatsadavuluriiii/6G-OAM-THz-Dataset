@@ -41,6 +41,8 @@ This dataset addresses the critical gap in comprehensive, physics-based data for
 
 ## 2. System Architecture
 
+![System Architecture](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%201/image1.png)
+
 **Figure 1: 6G OAM THz System Architecture** - The complete system design encompasses four main layers: Input Layer (environmental and hardware parameters), Physics Engine Core (atmospheric models, OAM beam physics, channel modeling), Hardware Layer (RF components and signal processing), and Propagation Channel (THz wave propagation with realistic impairments).
 
 The system architecture implements a comprehensive physics-based simulation framework that captures the complex interactions between:
@@ -89,7 +91,7 @@ The system architecture implements a comprehensive physics-based simulation fram
 
 ## 4. Scenario Coverage and Distribution
 
-![Figure 2: Comprehensive Scenario Coverage Matrix](plot%202/scenario_coverage_matrix.png)
+![Figure 2: Comprehensive Scenario Coverage Matrix](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%201/image2.png)
 
 **Figure 2: Comprehensive Scenario Coverage Matrix** - Detailed breakdown of all 270,000 samples across deployment scenarios with exact sample counts, parameter ranges, SINR coverage, throughput capabilities, latency performance, and validation scores.
 
