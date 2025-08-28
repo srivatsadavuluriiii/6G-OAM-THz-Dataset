@@ -368,15 +368,13 @@ The dataset's compliance with 6G requirements and ITU-R IMT-2030 frameworks ensu
 ## Citation
 
 ```bibtex
-@dataset{6g_oam_thz_dataset_2025,
-  title={6G OAM THz Dataset: Physics-Based Deep Learning Repository for Sub-Terahertz Communications},
-  author={Davuluri, Srivatsa},
-  year={2025},
-  publisher={IEEE DataPort},
-  url={https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset},
-  note={270,000 samples with 33 physics parameters covering 300-600 GHz THz communications with OAM beam multiplexing},
-  keywords={6G, THz, OAM, Deep Learning, Atmospheric Modeling, Channel Simulation}
-}
+@data{ej85-xp25-25,
+doi = {10.21227/ej85-xp25},
+url = {https://dx.doi.org/10.21227/ej85-xp25},
+author = {Srivatsa Davuluri},
+publisher = {IEEE Dataport},
+title = {6G OAM-THz Channel Dataset: ITU-R IMT-2030 Compliant Physics Simulation with 33 Parameters for Deep Reinforcement Learning},
+year = {2025} }
 ```
 
 ---
