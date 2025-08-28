@@ -41,8 +41,6 @@ This dataset addresses the critical gap in comprehensive, physics-based data for
 
 ## 2. System Architecture
 
-![Figure 1: 6G OAM THz System Architecture](plot%201/system_architecture_diagram.png)
-
 **Figure 1: 6G OAM THz System Architecture** - The complete system design encompasses four main layers: Input Layer (environmental and hardware parameters), Physics Engine Core (atmospheric models, OAM beam physics, channel modeling), Hardware Layer (RF components and signal processing), and Propagation Channel (THz wave propagation with realistic impairments).
 
 The system architecture implements a comprehensive physics-based simulation framework that captures the complex interactions between:
