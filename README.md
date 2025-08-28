@@ -69,6 +69,8 @@ The system architecture implements a comprehensive physics-based simulation fram
 
 ### 3.2 Technical Coverage
 
+![Frequency Band Coverage](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%203/image5.png)
+
 | Specification | Range | Coverage |
 |---------------|-------|----------|
 | **Frequency Range** | 300-600 GHz | Complete THz spectrum |
@@ -91,11 +93,13 @@ The system architecture implements a comprehensive physics-based simulation fram
 
 ## 4. Scenario Coverage and Distribution
 
-![Figure 2: Comprehensive Scenario Coverage Matrix](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%201/image2.png)
+![Figure 2: Comprehensive Scenario Coverage Matrix](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%202/image2.png)
 
 **Figure 2: Comprehensive Scenario Coverage Matrix** - Detailed breakdown of all 270,000 samples across deployment scenarios with exact sample counts, parameter ranges, SINR coverage, throughput capabilities, latency performance, and validation scores.
 
 ### 4.1 Scenario Breakdown
+
+![Scenario Coverage](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%203/image3.png)
 
 | Scenario | Sample Count | Percentage | Distance Range | Primary Use Case |
 |----------|--------------|------------|----------------|------------------|
@@ -110,7 +114,7 @@ Each scenario incorporates specific environmental conditions, mobility patterns,
 
 ## 5. Parameter Categories and Physics Modeling
 
-![Figure 3: Complete Dataset Parameter Coverage](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%204/image7.png)
+![Figure 3: Complete Dataset Parameter Coverage](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%205/image7.png)
 
 **Figure 3: Complete Dataset Parameter Coverage** - Comprehensive visualization showing all 33 physics parameters organized across 8 domains. Each heatmap panel demonstrates normalized parameter distributions across 270K samples.
 
@@ -125,6 +129,8 @@ The atmospheric turbulence modeling incorporates Kolmogorov turbulence theory wi
 - **Phase Variance:** Derived from atmospheric conditions
 
 ### 5.2 Weather and Environment (4 parameters)
+
+![Weather Parametric Analysis](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%203/image4.png)
 
 Comprehensive environmental modeling based on ITU-R recommendations:
 
