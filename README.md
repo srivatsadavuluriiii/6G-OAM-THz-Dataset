@@ -108,7 +108,7 @@ Each scenario incorporates specific environmental conditions, mobility patterns,
 
 ## 5. Parameter Categories and Physics Modeling
 
-![Figure 3: Complete Dataset Parameter Coverage](plot%203/comprehensive_dataset_infographic.png)
+![Figure 3: Complete Dataset Parameter Coverage](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%204/image7.png)
 
 **Figure 3: Complete Dataset Parameter Coverage** - Comprehensive visualization showing all 33 physics parameters organized across 8 domains. Each heatmap panel demonstrates normalized parameter distributions across 270K samples.
 
@@ -190,7 +190,7 @@ System-level KPIs:
 
 ## 6. Dataset Generation Methodology
 
-![Figure 4: Dataset Generation and Validation Pipeline](plot%204/Flowchart.png)
+![Application Flowchart](https://github.com/srivatsadavuluriiii/6G-OAM-THz-Dataset/blob/main/plot%204/image6.png)
 
 **Figure 4: Dataset Generation and Validation Pipeline** - Complete workflow showing the three-phase process: Configuration Phase (YAML setup and parameter validation), Generation Loop (physics simulation, scenario sampling, and quality checks), and Validation Pipeline (consistency analysis, range verification, and final scoring).
 
@@ -226,6 +226,7 @@ The dataset achieves exceptional quality metrics:
 ---
 
 ## 7. Applications and Use Cases
+
 
 ### 7.1 Deep Reinforcement Learning
 
